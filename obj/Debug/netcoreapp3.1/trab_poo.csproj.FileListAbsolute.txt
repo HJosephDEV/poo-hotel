@@ -1,0 +1,13 @@
+D:\DEV\trab_poo\bin\Debug\netcoreapp3.1\trab_poo.exe
+D:\DEV\trab_poo\bin\Debug\netcoreapp3.1\trab_poo.deps.json
+D:\DEV\trab_poo\bin\Debug\netcoreapp3.1\trab_poo.runtimeconfig.json
+D:\DEV\trab_poo\bin\Debug\netcoreapp3.1\trab_poo.runtimeconfig.dev.json
+D:\DEV\trab_poo\bin\Debug\netcoreapp3.1\trab_poo.dll
+D:\DEV\trab_poo\bin\Debug\netcoreapp3.1\trab_poo.pdb
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.csprojAssemblyReference.cache
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.AssemblyInfoInputs.cache
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.AssemblyInfo.cs
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.csproj.CoreCompileInputs.cache
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.dll
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.pdb
+D:\DEV\trab_poo\obj\Debug\netcoreapp3.1\trab_poo.genruntimeconfig.cache
